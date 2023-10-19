@@ -1,0 +1,17 @@
+{
+  "name": "drenvio-challenger",
+  "version": "1.0.0",
+  "description": "This is a solution a drenvio challenger",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1"
+  }
+}
